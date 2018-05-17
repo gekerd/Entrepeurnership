@@ -1,0 +1,142 @@
+.body {
+  font-family: "Roboto", sans-serif;  
+}
+.dab {
+  display:flex;
+  align-items:center;
+  background-size:cover;
+  height: 760px;
+  background-image: url('Images/CityBack.jpg');  
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.dab2 {
+  display:flex;
+  align-items:center;
+  background-size:cover;
+  height: 760px;
+  background-image: url('https://media.wired.com/photos/593247a6edfced5820d0f5aa/master/w_1800,c_limit/023_2-WTC-HeroShot_Image-by-BIG-FINAL.jpg');  
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.login {
+  width: 360px;
+  padding: 0;
+  margin: auto;
+}
+.form {
+  position: relative;
+  z-index: 1;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  padding-top: 10px;
+  text-align: center;
+}
+.form input {
+  outline: 1;
+  background-color: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+.dabio {
+  text-transform: uppercase;
+  background-color: #4CAF50;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFF;
+  font-size: 14px;
+  cursor: pointer;
+}
+.tablink {
+  margin-top: 0;
+  box-sizing: border-box;
+  opacity: 0.85;
+  background-color: rgb(85, 85, 85);
+  color: white;
+  border: none;
+  float: left;
+  cursor: pointer;
+  padding: 12px 14px;
+  font-size: 16px;
+  width: 50%;
+  margin-bottom: 10px;
+}
+.tablink:hover {
+  background-color: #777;
+}
+.tabcontent {
+  display: none;
+}
+#Sign {
+  font-size: 16px;
+  display: block;
+}
+#Regis {
+  font-size: 16px
+}
+
+#navheading { 
+  margin: 0;
+  padding: 0;
+  float:left;
+  font-family: Courier New;
+}
+#navheader {
+  height: 200px;
+  text-align: center;
+}
+
+#navbarul {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  float: right;
+}
+#navlist {
+  display: inline;
+  
+}
+
+#navigation {
+  text-align: center;
+}
+
+#navbarulmain {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  float: right;
+}
+
+.aboutusdab {
+   display:flex;
+  align-items:center;
+  background-size:cover;
+  height: 760px;
+  background-image: url('Images/AboutUs.jpg');  
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.jumbohome {
+  text-align: center;
+  padding: auto;
+  margin: auto;
+  width: 90%;
+  height: 80% ;
+  background-color: #fffdf7  ;
+  opacity: 0.85;
+}
+  
+.adisplay {
+    display: inline-block;
+    height: 40px;
+}
